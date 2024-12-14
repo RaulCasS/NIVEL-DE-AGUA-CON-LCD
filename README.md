@@ -126,7 +126,7 @@ delay (2000);
 ## RESULTADOS
 
 ![](https://github.com/RaulCasS/NIVEL-DE-AGUA-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-13%20232929.png?raw=true)
-![]()
+![](https://github.com/RaulCasS/NIVEL-DE-AGUA-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-13%20233042.png?raw=true)
 ![]()
 ![]()
 
